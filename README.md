@@ -170,9 +170,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to [xmysql](https://github.com/o1lab/xmysql) for the awesome database library.
 - Inspired by open-source projects in the Python ecosystem.
 
----
-
-This `README.md` provides a comprehensive guide for setting up the repository, configuring the database, running the application, and contributing. It also includes the project structure for better understanding, and a tutorial video to make the process easier.
-``` 
-
-This format includes the project structure and the video tutorial link. Let me know if you need any more adjustments!
