@@ -1,0 +1,2 @@
+xmysql==0.2.0
+aiohttp==3.8.1
